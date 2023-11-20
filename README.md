@@ -6,4 +6,5 @@ You can also use Compound Methods (see manual 9.47)
 
 ## How to use
 Change your input file to 1.inp
+
 Run `./autoopt.sh`
